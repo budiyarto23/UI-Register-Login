@@ -1,0 +1,15 @@
+.bodyproduct {
+    background-image: url("http://wallpapers.ae/wp-content/uploads/2014/10/Black-Pattern-Background-Wallpaper.jpg");
+    background-size: "cover";
+    background-repeat: "no-repeat";
+}
+
+/* .backbody {
+    background-color: 'grey';
+    border-radius: '30px'
+} */
+
+.paddingTop {
+    padding-top: '150px';
+    padding-bottom: '120px';
+}
